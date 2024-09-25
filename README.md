@@ -1,8 +1,8 @@
 # Olympic-medal-analysis-PowerBI-dashboard.
 ------------------------
 
-## The problem statement: 
-The dashboard displays a variety of data about Olympic medals, including medal counts by sport, year, country, and athlete.
+## The problem statement
+- The dashboard displays a variety of data about Olympic medals, including medal counts by sport, year, country, and athlete.
 ---------------------------
 
 ## Data Analysis
